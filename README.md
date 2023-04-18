@@ -1,6 +1,6 @@
 # AI-Timetable-Builder
 
-This project, written in Java, demonstrates the use of artificial intelligence techniques to generate a school timetable based on input data from two text files (teachers and lessons). The Hill Climbing heuristic search algorithm is employed to accomplish this task. This project was created as a university assignment for an "Artificial Intelligence" course.
+This project, written in Java, demonstrates the use of artificial intelligence techniques to generate a school timetable based on input data from two text files containing information on teachers and lessons. The Hill Climbing heuristic search algorithm is employed to accomplish this task while considering the various constraints and restraints that exist in scheduling school timetables, such as the maximum number of hours a teacher can teach, the maximum number of times a subject can be scheduled, and other such limitations. This project was created as a university assignment for an "Artificial Intelligence" course and provides a practical example of how artificial intelligence can be used to optimize complex scheduling problems.
 
 ## Getting Started
 
